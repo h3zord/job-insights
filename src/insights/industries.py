@@ -6,7 +6,7 @@ def get_unique_industries(path: str) -> List[str]:
     jobs_list = read(path)
     job_industries_set = set()
     for job in jobs_list:
-        if (len(job["industry"])):
+        if (job["industry"]):
             job_industries_set.add(job["industry"])
     return list(job_industries_set)
 
