@@ -3,12 +3,12 @@
 
 ## Objetivo
 
-O <strong>Job Insights</strong> tem como objetivo desenvolver soluções de análises de dados reais sobre empregos. As implementações foram incorporadas a um aplicativo web desenvolvido com Flask já disponibilizado no projeto.
+O <strong>Job Insights</strong> tem como objetivo desenvolver soluções de análises de dados reais sobre empregos. As implementações foram incorporadas a um aplicativo web desenvolvido com flask já disponibilizado no projeto.
 
 ## O que foi desenvolvido?
 
 O <strong>Job Insights</strong> é um projeto desenvolvido em python e a principal finalidade foi realizar a manipulação e extração de dados sobre empregos: quais empregos existem na base de dados, quais as indústrias estão presentes, obter salário máximo e mínimo, filtrar o emprego pelo seu tipo e indústria e por fim filtrar o salário por um determinado intervalo. Esse projeto foi ótimo para praticar alguns conhecimentos sobre python: utilizar o terminal interativo do python,
-utilizar estruturas condicionais e de repetição, utilizar funções built-in do python, utilizar tratamento de exceções, realizar a manipulação de arquivos, escrever funções, escrever testes com Pytest e escrever meus próprios módulos e importá-los em outros códigos.
+utilizar estruturas condicionais e de repetição, utilizar funções built-in do python, utilizar tratamento de exceções, realizar a manipulação de arquivos, escrever funções, escrever testes com pytest e escrever meus próprios módulos e importá-los em outros códigos.
 
 ## Linguagens e ferramentas
 - Python
