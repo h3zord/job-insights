@@ -47,6 +47,7 @@ flask run
 <br/>
 ➜ http://localhost:5000/
 
+<br/>
 
 ## Execução dos testes
 
